@@ -1,0 +1,9 @@
+h1, p {
+  text-align: center;
+}
+
+main {
+ display: flex;
+ justify-content: center;
+ column-gap: 50px;
+}
